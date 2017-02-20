@@ -1,0 +1,21 @@
+{
+	"name": "oci-context",
+	"version": "1.0.0",
+	"description": "JSON-LD Context for OpenContainers specifications",
+	"main": "oci-context.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/oci-context"
+	},
+	"keywords": [
+		"oci",
+		"opencontainers",
+		"jsonld context",
+		"json-ld"
+	],
+	"author": "rektide de la faye",
+	"license": "X11"
+}
